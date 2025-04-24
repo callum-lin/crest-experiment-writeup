@@ -31,3 +31,5 @@ The timestamps here may/will not align with the timestamps we provide for the le
 - Time spent packing away and distance travelled was not taken into account.
 - Time spent between runs measuring out liquids etc. was not taken into account.
 - Data analysis step (which could be lengthy depending on the quality of the recording) was very time consuming.
+
+SOME RECORDINGS HAVE NOT BEEN SUPPLIED DUE TO THE PARTICIPANTS NOT CONSENTING TOWARDS THE PUBLIC RELEASE OF THEIR PERSONAL INFOMATION
