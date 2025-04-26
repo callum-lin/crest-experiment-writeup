@@ -36,4 +36,4 @@ With the independent variable being `Water Amount (L)` and the dependent variabl
 Note that the slider has a minimum value of 0.10l with a maximum value of 1.00l (as the total volume of the bottle was 1.052).
 The slider went up in increments of 0.1l
 
-THIS DOCUMENT IS A LEGACY DOCUMENT AS SERVES AS A FORM OF PROGRESS CHART USE scraper.js and plot.py instead.
+THIS DOCUMENT WAS ONLY USED TO VERIFY THE PERFORMANCE OF THE SCRIPT `scraper.js` and `plot.py`
